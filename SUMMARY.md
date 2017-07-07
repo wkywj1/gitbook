@@ -1,7 +1,6 @@
 # Summary
 
 * [SDM简介](README.md)
-* [主要操作流程图](/procedure.md)
 * [Part1 基础功能——待办任务](/basicfunction/task.md)
 * [Part1 基础功能——我的消息](/basicfunction/msg.md)
 * [Part1 基础功能——项目看板](/basicfunction/projectboard.md)
